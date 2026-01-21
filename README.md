@@ -7,6 +7,7 @@ This repository contains scripts used to reproduce results obtained for the pape
 Description:
 
 in `scripts`:
+
 a) `IgA_binding.R` - an R script that contains code use to calculate the Kau index, probability score and probability ratio binding values for our cohorts as well as other public datasets that were integrated in the analysis.
 
 b) `adm_method.R` - R script that contains the code that was used to determine the weights using the automatic democratic method involving inferring an optimal score for each species and performing non negative least square regression.
