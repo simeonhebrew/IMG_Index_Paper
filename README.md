@@ -1,7 +1,7 @@
 ## IMG_Index_Paper
 
 ---
-This repository contains scripts and source data useful to reproduce results obtained for the paper: "Immune surveillance as a governing principle of human gut microbiome structure"
+This repository contains scripts and source data useful to reproduce results obtained for the paper: "Immune surveillance as a governing axis of gut microbiome structure"
 
 ---
 ### Description:
