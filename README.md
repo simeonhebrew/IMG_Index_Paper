@@ -20,6 +20,7 @@ e) `metaphlan.sh` - a bash script that contains code for preprocessing of sequen
 
 
 in `source_data`:
+
 Figure_2_SF, Figure_3_SF, Figure_4_SF, Figure_5_SF and Figure_6_SF contain the source data useful for reproducing the figure 2, 3, 4, 5 and 6 respectively.
 
 
