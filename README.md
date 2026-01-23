@@ -4,7 +4,7 @@
 This repository contains scripts and source data useful to reproduce results obtained for the paper: "Immune surveillance as a governing principle of human gut microbiome structure"
 
 ---
-Description:
+### Description:
 
 in `scripts`:
 
@@ -23,10 +23,12 @@ in `source_data`:
 Figure_2_SF, Figure_3_SF, Figure_4_SF, Figure_5_SF and Figure_6_SF contain the source data useful for reproducing the figure 2, 3, 4, 5 and 6 respectively.
 
 
-Software Installation:
+### Software Installation:
 
 a) To calculate the IgA binding, we advise installation of the [IgAscores](https://github.com/microbialman/IgAScores) R package authored by Jackson _et al_. 2021
 
 b) To calculate the IM score and the IMG index, you can access our [IMGI](https://github.com/simeonhebrew/IMGMI) R package for all installation and usage details.
 
 
+
+For any inquiry, feel free to open an issue or reach out to us on email at simeon.nthuku@inserm.fr or lejla.imamovic@inserm.fr
